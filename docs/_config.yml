@@ -1,1 +1,4 @@
+---
+plugins:
+  - jekyll-menus
 theme: jekyll-theme-hacker
