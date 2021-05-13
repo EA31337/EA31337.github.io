@@ -22,7 +22,7 @@ repos:
     rev: 2.1.5
     hooks:
       - id: forbid-binary
-        exclude: (\.ico|\.mqproj)$
+        exclude: (\.ico)$
       - id: git-check     # Configure in .gitattributes
       # @fixme: https://github.com/jumanjihouse/pre-commit-hooks/issues/79
       # - id: markdownlint  # Configure in .mdlrc

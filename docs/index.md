@@ -24,7 +24,7 @@ Main projects include:
 
 You can download above projects from the following sites:
 
-- [GitHub][gh-ea-org] (source code and project's release files)
+- [GitHub][gh-ea-org] (source code and project's release files).
 - [Marketplace][ea-marketplace]
 
 ## Support
