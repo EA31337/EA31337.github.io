@@ -2,6 +2,7 @@
 
 [![Status][gha-img-check]][gha-lnk-check]
 [![Channel][tg-channel-image]][tg-channel-link]
+[![Twitter][twitter-image]][twitter-link]
 
 Source code for the public webpage
 hosted at <https://ea31337.github.io/>.
@@ -13,3 +14,6 @@ hosted at <https://ea31337.github.io/>.
 
 [tg-channel-image]: https://img.shields.io/badge/Telegram-join-0088CC.svg?logo=telegram
 [tg-channel-link]: https://t.me/EA31337
+
+[twitter-image]: https://img.shields.io/badge/EA31337-Follow-1DA1F2.svg?logo=Twitter
+[twitter-link]: https://twitter.com/EA31337

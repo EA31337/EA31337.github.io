@@ -45,6 +45,7 @@ You can download above projects from the following sites:
 ---
 
 [![Channel][tg-channel-image]][tg-channel-link]
+[![Twitter][twitter-image]][twitter-link]
 
 <!-- Named links -->
 
@@ -63,3 +64,6 @@ You can download above projects from the following sites:
 
 [tg-channel-image]: https://img.shields.io/badge/Telegram-join-0088CC.svg?logo=telegram
 [tg-channel-link]: https://t.me/EA31337
+
+[twitter-image]: https://img.shields.io/badge/EA31337-Follow-1DA1F2.svg?logo=Twitter
+[twitter-link]: https://twitter.com/EA31337
