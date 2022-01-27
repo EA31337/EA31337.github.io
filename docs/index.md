@@ -22,6 +22,14 @@ Main projects include:
 - [EA Tester][ghp-ea-tester] -
   Headless Forex backtesting for MetaTrader platform using Docker.
 
+### Other projects
+
+Other projects include:
+
+- [Validator for f(x)Core][ea-fx-fxcore-validator] -
+  A full-node participating in consensus for f(x)Core blockchain.
+  It allows delegators to receive rewards by staking their crypto tokens.
+
 ## Downloads
 
 You can download above projects from the following sites:
@@ -47,6 +55,8 @@ You can download above projects from the following sites:
 [ghp-ea31337]: https://ea31337.github.io/EA31337
 
 [gh-ea-org]: https://github.com/EA31337
+
+[ea-fx-fxcore-validator]: https://ea31337.github.io/EA-FX-Validator-site
 
 [ea-marketplace]: https://marketplace.ea31337.com/
 [ea-marketplace-vip-free]: https://marketplace.ea31337.com/products/ea31337-vip-preview
