@@ -17,6 +17,10 @@ Main projects include:
   Professional Forex trading robot with machine learning capabilities.
 - [EA31337 Framework][ghp-ea-classes] (aka classes) -
   MQL library for writing trading robots, indicators and scripts.
+- [EA31337 Indicators Common][ghp-ea-indi-common] -
+  Collection of common indicators used by strategies.
+- [EA31337 Indicators Other][ghp-ea-indi-other] -
+  Collection of 3rd party indicators used by strategies.
 - [EA31337 Strategies][ghp-ea-strats] -
   Collection of trading strategies.
 - [EA Tester][ghp-ea-tester] -
@@ -50,6 +54,8 @@ You can download above projects from the following sites:
 <!-- Named links -->
 
 [ghp-ea-classes]: https://ea31337.github.io/EA31337-classes
+[ghp-ea-indi-common]: https://github.com/EA31337/EA31337-indicators-common
+[ghp-ea-indi-other]: https://github.com/EA31337/EA31337-indicators-other
 [ghp-ea-libre]: https://ea31337.github.io/EA31337-Libre
 [ghp-ea-strats]: https://ea31337.github.io/EA31337-strategies
 [ghp-ea-tester]: https://ea31337.github.io/EA-Tester
