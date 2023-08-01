@@ -39,7 +39,6 @@ To join available trading programs, you can use the following links:
 - Rider: <https://secure.blackwellglobal.bs/links/go/460>
 - VIP [Tier 1]: <https://secure.blackwellglobal.bs/links/go/461>
 
-To join the program, just click on the link and fill out the form.
 You can only choose one program per one account.
 
 Live trades are published at:
