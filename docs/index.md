@@ -26,6 +26,28 @@ Main projects include:
 - [EA Tester][ghp-ea-tester] -
   Headless Forex backtesting for MetaTrader platform using Docker.
 
+### MAM
+
+EA31337 is running live accounts using MAM technology (money manager software).
+It allows to manage multiple trading accounts simultaneously
+from a single central server which can allocate trades across multiple accounts
+in efficient way while ensuring accurate record-keeping and transparency.
+
+To join available trading programs, you can use the following links:
+
+- Advanced: <https://secure.blackwellglobal.bs/links/go/459>
+- Rider: <https://secure.blackwellglobal.bs/links/go/460>
+- VIP [Tier 1]: <https://secure.blackwellglobal.bs/links/go/461>
+
+To join the program, just click on the link and fill out the form.
+You can only choose one program per one account.
+
+Live trades are published at:
+<https://www.forexfactory.com/ea31337>
+
+For more details, please read:
+<https://t.me/EA31337/62>
+
 ### Other projects
 
 Other projects include:
