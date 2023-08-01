@@ -1,12 +1,12 @@
 ---
 - name: platforms
   full: Platforms
-  exclude: yes
+  exclude: true
   submenus:
     -
       full: MetaTrader 4
       name: install-mt4
-      nested: yes
+      nested: true
 
     -
       full: MetaTrader 5
